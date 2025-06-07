@@ -1,0 +1,189 @@
+{
+  "site": {
+    "title": "YuKi's shop",
+    "description": "Your Private Luxury Haven | YuKi Shop: Exclusive Handbags & Rare Scents for Discerning Tastes.",
+    "keywords": "Original leather bags, counter-level, same craftsmanship, private delivery, factory direct supply",
+    "logo": {
+      "text": "YuKi",
+      "subtext": "Shop"
+    }
+  },
+  "navigation": [
+    { "name": "Home", "path": "/", "key": "home" },
+    { "name": "Shop", "path": "/services", "key": "services" },
+    { "name": "Contact", "path": "/contact", "key": "contact" }
+  ],
+  "common": {
+    "loading": "Loading...",
+    "error": "Loading failed",
+    "language": "Switch language",
+    "chinese": "中文",
+    "english": "English"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to",
+      "subtitle": "🌹 「Your Private Luxury Haven | YuKi Shop: Exclusive Handbags & Rare Scents for Discerning Tastes.」",
+      "primaryButton": "Start shopping",
+      "secondaryButton": "Contact Us"
+    },
+    "features": {
+    "title": "Why Choose YuKi?",
+    "subtitle": "Redefining Trustworthy Global Premium Experiences",
+    "items": [
+      {
+        "icon": "shield",
+        "title": "Privacy Assurance · Worry-Free Delivery",
+        "description": "Discreet packaging and dedicated 1-on-1 customer support to resolve dual concerns of quality and compliance",
+        "color": "green"
+      },
+      {
+        "icon": "globe",
+        "title": "Global Sourcing · Seasonal Selections",
+        "description": "Partnering with suppliers nationwide to curate seasonal offerings – delivering fresh, in-season products directly to you",
+        "color": "purple"
+      },
+      {
+        "icon": "gift",
+        "title": "Ritual Experience · Emotional Connection",
+        "description": "Every package delivers unboxing surprises, embodying our 'Enjoy the Moment' philosophy to transform shopping into a daily healing ritual",
+        "color": "blue"
+      }
+    ]
+  },
+    "stats": {
+      "items": [
+        { "value": "1000+", "label": "Active Users" },
+        { "value": "10W+", "label": "Order Quantity" },
+        { "value": "99.9%", "label": "Uptime" },
+        { "value": "24/7", "label": "Support" }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "🔥 ​​「Unlock top-level craftsmanship instantly and reach your exquisite life directly」​",
+      "button": "Start shopping"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Shop",
+      "subtitle": "Comprehensive network mirror solutions to meet enterprise needs of all scales"
+    },
+    "core": {
+      "items": [
+         {
+          "title": "Luxury Collection",
+          "description": "Explore our premium line of exclusive luxury products with handcrafted details",
+          "features": "Visit Store",
+          "url": "https://good-bags1.myshoplaza.com/",
+          "iconBg": "bg-blue-100",
+          "iconColor": "text-blue-600",
+          "iconPath": "M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"
+        },
+        {
+          "title": "Bags",
+          "description": "Every trip is an elegant date with the world - let our handbags seal your shining moments",
+          "features": "Visit Store",
+          "url": "https://momoka-diy.myshoplaza.com/",
+          "iconBg": "bg-green-100",
+          "iconColor": "text-green-600",
+          "iconPath": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        },
+        {
+          "title": "perfume",
+          "description": "Your scent is an invisible love letter to the world",
+          "features": "Visit Store",
+          "url": "https://no-105-1.myshoplaza.com/",
+          "iconBg": "bg-purple-100",
+          "iconColor": "text-purple-600",
+          "iconPath": "M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"
+        }
+      ]
+    } 
+  }, 
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are always ready to provide you with professional service support and look forward to your purchase.",
+    "info": [
+      {
+        "title": "WhatsApp Support",
+        "description": "Your own WhatsApp customer service",
+        "features": "Add now",
+        "url": "https://wa.me/8618122376281",
+        "iconBg": "bg-green-100",
+        "iconColor": "text-green-600",
+        "iconIndex": "WhatsApp"
+      },
+      {
+        "title": "WhatsApp Group Chat",
+        "description": "Join Yuki's group chat",
+        "features": "Join Group Chat",
+        "url": "https://chat.whatsapp.com/Eu4v5xBjnLvLbkExmf6QCT",
+        "iconBg": "bg-green-100",
+        "iconColor": "text-green-600",
+        "iconIndex": "Info"
+      },
+      {
+        "title": "IG Support",
+        "description": "Your own IG customer service",
+        "features": "Enquire Now",
+        "url": "https://www.instagram.com/yuki_luxe_customer_service?igsh=Y2JuNXlmNXZiZ3pi",
+        "iconBg": "bg-purple-100",
+        "iconColor": "text-purple-600",
+        "iconIndex": "IG"
+      }
+    ],
+    "support": {
+      "title": "24/7 Technical Support",
+      "description": "Our customer service staff will provide you with professional product consultation and after-sales guarantee.",
+      "responseTime": [
+        {
+          "type": "咨询时间(美国时间)",
+          "time": "8:00-24:00"
+        } 
+      ]
+    }, 
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Here are questions frequently asked by customers",
+      "items": [
+        {
+          "question": "How to get customer support?",
+          "answer": "You can contact our customer service staff via WhatsApp, IG or in the group. We will respond to general inquiries within 2 hours and emergency support within 24 hours."
+        },
+        {
+          "question": "How to check the express delivery itinerary?",
+          "answer": "Copy the tracking number provided in the order, and then visit 'https://www.17track.net/zh-cn' to check."
+        }
+      ]
+    },
+    "guarantee": {
+      "title": "Service Guarantee",
+      "subtitle": "We promise to provide you with the best service experience",
+      "items": [
+        {
+          "title": "Fast Response",
+          "description": "7×24 technical support, respond to your inquiries within 2 hours",
+          "iconBg": "bg-blue-100",
+          "iconColor": "text-blue-600",
+          "iconPath": "M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Professional Service",
+          "description": "Professional customer service provides product consultation and solutions to other problems",
+          "iconBg": "bg-green-100",
+          "iconColor": "text-green-600",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Service Guarantee",
+          "description": "service guarantee ensuring service quality and stability",
+          "iconBg": "bg-purple-100",
+          "iconColor": "text-purple-600",
+          "iconPath": "M9 12l2 2 4-4m5.586-3.586a2 2 0 112.828 2.828l-6.586 6.586a2 2 0 01-2.828 0l-6.586-6.586a2 2 0 112.828-2.828L9 9l.586-.586z"
+        }
+      ]
+    }
+  }
+} 
