@@ -9,9 +9,21 @@
     }
   },
   "navigation": [
-    { "name": "Home", "path": "/", "key": "home" },
-    { "name": "Shop", "path": "/services", "key": "services" },
-    { "name": "Contact", "path": "/contact", "key": "contact" }
+    {
+      "name": "Home",
+      "path": "/",
+      "key": "home"
+    },
+    {
+      "name": "Shop",
+      "path": "/services",
+      "key": "services"
+    },
+    {
+      "name": "Contact",
+      "path": "/contact",
+      "key": "contact"
+    }
   ],
   "common": {
     "loading": "Loading...",
@@ -28,35 +40,47 @@
       "secondaryButton": "Contact Us"
     },
     "features": {
-    "title": "Why Choose YuKi?",
-    "subtitle": "Redefining Trustworthy Global Premium Experiences",
-    "items": [
-      {
-        "icon": "shield",
-        "title": "Privacy Assurance · Worry-Free Delivery",
-        "description": "Discreet packaging and dedicated 1-on-1 customer support to resolve dual concerns of quality and compliance",
-        "color": "green"
-      },
-      {
-        "icon": "globe",
-        "title": "Global Sourcing · Seasonal Selections",
-        "description": "Partnering with suppliers nationwide to curate seasonal offerings – delivering fresh, in-season products directly to you",
-        "color": "purple"
-      },
-      {
-        "icon": "gift",
-        "title": "Ritual Experience · Emotional Connection",
-        "description": "Every package delivers unboxing surprises, embodying our 'Enjoy the Moment' philosophy to transform shopping into a daily healing ritual",
-        "color": "blue"
-      }
-    ]
-  },
+      "title": "Why Choose YuKi?",
+      "subtitle": "Redefining Trustworthy Global Premium Experiences",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Privacy Assurance · Worry-Free Delivery",
+          "description": "Discreet packaging and dedicated 1-on-1 customer support to resolve dual concerns of quality and compliance",
+          "color": "green"
+        },
+        {
+          "icon": "globe",
+          "title": "Global Sourcing · Seasonal Selections",
+          "description": "Partnering with suppliers nationwide to curate seasonal offerings – delivering fresh, in-season products directly to you",
+          "color": "purple"
+        },
+        {
+          "icon": "gift",
+          "title": "Ritual Experience · Emotional Connection",
+          "description": "Every package delivers unboxing surprises, embodying our 'Enjoy the Moment' philosophy to transform shopping into a daily healing ritual",
+          "color": "blue"
+        }
+      ]
+    },
     "stats": {
       "items": [
-        { "value": "1000+", "label": "Active Users" },
-        { "value": "10W+", "label": "Order Quantity" },
-        { "value": "99.9%", "label": "Uptime" },
-        { "value": "24/7", "label": "Support" }
+        {
+          "value": "1000+",
+          "label": "Active Users"
+        },
+        {
+          "value": "10W+",
+          "label": "Order Quantity"
+        },
+        {
+          "value": "99.9%",
+          "label": "Uptime"
+        },
+        {
+          "value": "24/7",
+          "label": "Support"
+        }
       ]
     },
     "cta": {
@@ -72,13 +96,14 @@
     },
     "core": {
       "items": [
-         {
+        {
           "title": "Luxury Collection",
           "description": "Explore our premium line of exclusive luxury products with handcrafted details",
           "features": "Visit Store",
           "url": "https://good-bags1.myshoplaza.com/",
           "iconBg": "bg-blue-100",
           "iconColor": "text-blue-600",
+          "iconInfo": "Luxury",
           "iconPath": "M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"
         },
         {
@@ -88,6 +113,7 @@
           "url": "https://momoka-diy.myshoplaza.com/",
           "iconBg": "bg-green-100",
           "iconColor": "text-green-600",
+          "iconInfo": "Bags",
           "iconPath": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
         },
         {
@@ -97,11 +123,12 @@
           "url": "https://no-105-1.myshoplaza.com/",
           "iconBg": "bg-purple-100",
           "iconColor": "text-purple-600",
+          "iconInfo": "Perfume",
           "iconPath": "M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"
         }
       ]
-    } 
-  }, 
+    }
+  },
   "contact": {
     "title": "Contact Us",
     "subtitle": "We are always ready to provide you with professional service support and look forward to your purchase.",
@@ -141,9 +168,9 @@
         {
           "type": "咨询时间(美国时间)",
           "time": "8:00-24:00"
-        } 
+        }
       ]
-    }, 
+    },
     "faq": {
       "title": "Frequently Asked Questions",
       "subtitle": "Here are questions frequently asked by customers",
@@ -186,4 +213,4 @@
       ]
     }
   }
-} 
+}
