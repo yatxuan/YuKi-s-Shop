@@ -52,7 +52,7 @@
         {
           "icon": "globe",
           "title": "Global Sourcing · Seasonal Selections",
-          "description": "Partnering with suppliers nationwide to curate seasonal offerings – delivering fresh, in-season products directly to you",
+          "description": "In-depth cooperation with original supply chains across the country",
           "color": "purple"
         },
         {
@@ -66,7 +66,7 @@
     "stats": {
       "items": [
         {
-          "value": "1000+",
+          "value": "2000+",
           "label": "Active Users"
         },
         {
@@ -75,7 +75,7 @@
         },
         {
           "value": "99.9%",
-          "label": "Uptime"
+          "label": "Availability"
         },
         {
           "value": "24/7",
