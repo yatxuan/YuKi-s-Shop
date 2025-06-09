@@ -144,7 +144,7 @@
       },
       {
         "title": "WhatsApp群聊",
-        "description": "加入 Yuki 的群聊",
+        "description": "加入群聊,获取最新咨询和公告",
         "features": "加入群聊",
         "url": "https://chat.whatsapp.com/Eu4v5xBjnLvLbkExmf6QCT",
         "iconBg": "bg-green-100",
@@ -156,6 +156,33 @@
         "description": "属于你的IG客服",
         "features": "立即咨询",
         "url": "https://www.instagram.com/yuki_luxe_customer_service?igsh=Y2JuNXlmNXZiZ3pi",
+        "iconBg": "bg-purple-100",
+        "iconColor": "text-purple-600",
+        "iconIndex": "IG"
+      },
+      {
+        "title": "香水1群（IG）",
+        "description": "加入群聊,获取最新咨询和公告",
+        "features": "加入群聊",
+        "url": "https://ig.me/j/Abavo08wLK8oPhop/",
+        "iconBg": "bg-purple-100",
+        "iconColor": "text-purple-600",
+        "iconIndex": "IG"
+      },
+      {
+        "title": "香水2群（IG）",
+        "description": "加入群聊,获取最新咨询和公告",
+        "features": "加入群聊",
+        "url": "https://ig.me/j/AbaRD38qxT_hPi8X/",
+        "iconBg": "bg-purple-100",
+        "iconColor": "text-purple-600",
+        "iconIndex": "IG"
+      },
+      {
+        "title": "包包1群（IG）",
+        "description": "加入群聊,获取最新咨询和公告",
+        "features": "加入群聊",
+        "url": "https://ig.me/j/AbaoRrxWrCBvBLjK/",
         "iconBg": "bg-purple-100",
         "iconColor": "text-purple-600",
         "iconIndex": "IG"
@@ -182,6 +209,14 @@
         {
           "question": "如何查询快递行程?",
           "answer": "复制订单内提供的快递单号，然后访问'https://www.17track.net/zh-cn'，进行查询。"
+        },
+        {
+          "question": "什么是清关?",
+          "answer": "清关是我们运输包裹的一个常规流程，也是是海关例行安检的正常流程，请不要担心，这个不是海关扣留。"
+        },
+        {
+          "question": "如果发生了海关扣留，我们会怎么处理?",
+          "answer": "如果发生了海关扣留，我们收到通知以后，我们的处理措施是重新补发货物，如果您不满意我们的处理方式，可以主动联系我们，进行协商处理"
         }
       ]
     },
