@@ -15,8 +15,13 @@
       "key": "home"
     },
     {
+      "name": "通知",
+      "path": "/notify",
+      "key": "notify"
+    },
+    {
       "name": "店铺",
-      "path": "/services",
+      "path": "/shop",
       "key": "services"
     },
     {

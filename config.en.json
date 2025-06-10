@@ -15,9 +15,14 @@
       "key": "home"
     },
     {
+      "name": "Notify",
+      "path": "/notify",
+      "key": "notify"
+    },
+    {
       "name": "Shop",
-      "path": "/services",
-      "key": "services"
+      "path": "/shop",
+      "key": "shop"
     },
     {
       "name": "Contact",

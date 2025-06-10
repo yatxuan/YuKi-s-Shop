@@ -16,8 +16,8 @@
     },
     {
       "name": "店铺",
-      "path": "/services",
-      "key": "services"
+      "path": "/shop",
+      "key": "shop"
     },
     {
       "name": "联系我们",
